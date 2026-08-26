@@ -9,4 +9,5 @@ dependencies = [
     "openai>=2.53.0",
     "python-dotenv>=1.2.2",
     "rich>=15.0.0",
+    "traccia>=0.1.28",
 ]
